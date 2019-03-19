@@ -1,0 +1,29 @@
+# mypy
+.mypy_cache/
+
+# vim temporary files.
+.*sw*
+#
+# Compiled python modules.
+*.pyc
+
+# Setuptools distribution folder.
+/dist/
+
+# Python egg metadata, regenerated from source files by setuptools.
+/*.egg-info
+/*.egg
+
+# Python packages
+build/
+develop/
+test/
+
+# Others
+notes/
+data/*txt
+output/
+*.zip
+*.p
+
+.ipynb_checkpoints
