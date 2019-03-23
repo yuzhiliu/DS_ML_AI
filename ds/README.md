@@ -9,3 +9,8 @@
 > [https://www.datacamp.com/community/blog/python-pandas-cheat-sheet](https://www.datacamp.com/community/blog/python-pandas-cheat-sheet)
 
 
+## Read CSV files using csv in Python
+
+> [https://realpython.com/python-csv/](https://realpython.com/python-csv/)
+
+
