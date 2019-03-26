@@ -18,6 +18,10 @@
 
 > [https://towardsdatascience.com/learning-to-make-recommendations-745d13883951](https://towardsdatascience.com/learning-to-make-recommendations-745d13883951)
 
+> [https://medium.com/recombee-blog/machine-learning-for-recommender-systems-part-2-deep-recommendation-sequence-prediction-automl-f134bc79d66b](https://medium.com/recombee-blog/machine-learning-for-recommender-systems-part-2-deep-recommendation-sequence-prediction-automl-f134bc79d66b)
+
+> [https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-recommendation-engine-python/](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-recommendation-engine-python/)
+
 
 1. Ruled based model (no cold start problem)
 
@@ -35,3 +39,23 @@
 > [https://stats.stackexchange.com/questions/134282/relationship-between-svd-and-pca-how-to-use-svd-to-perform-pca](https://stats.stackexchange.com/questions/134282/relationship-between-svd-and-pca-how-to-use-svd-to-perform-pca)
 
 > [https://slideplayer.com/slide/5283216/](https://slideplayer.com/slide/5283216/)
+
+
+
+
+
+### Bag of words 
+
+> [https://machinelearningmastery.com/gentle-introduction-bag-words-model/](https://machinelearningmastery.com/gentle-introduction-bag-words-model/)
+
+> [https://towardsdatascience.com/3-basic-approaches-in-bag-of-words-which-are-better-than-word-embeddings-c2cbc7398016](https://towardsdatascience.com/3-basic-approaches-in-bag-of-words-which-are-better-than-word-embeddings-c2cbc7398016)
+
+
+
+
+## Deep Learning
+
+> [https://machinelearningmastery.com/start-here/#nlp](https://machinelearningmastery.com/start-here/#nlp)
+
+> [https://www.analyticsvidhya.com/blog/2017/01/must-know-questions-deep-learning/](https://www.analyticsvidhya.com/blog/2017/01/must-know-questions-deep-learning/)
+
