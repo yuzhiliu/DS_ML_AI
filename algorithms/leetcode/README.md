@@ -7,3 +7,7 @@
 ## Sliding Window
 
 3, 30, 76, 159, 340, 438, 992
+
+## K-th smallest type
+
+373, 
