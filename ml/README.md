@@ -51,6 +51,13 @@
 > [https://towardsdatascience.com/3-basic-approaches-in-bag-of-words-which-are-better-than-word-embeddings-c2cbc7398016](https://towardsdatascience.com/3-basic-approaches-in-bag-of-words-which-are-better-than-word-embeddings-c2cbc7398016)
 
 
+### TF-IDF, Word2Vec, Glove
+
+> [https://triton.ml/blog/tf-idf-from-scratch](https://triton.ml/blog/tf-idf-from-scratch)
+
+### Stemming and lemmatization
+
+> [https://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html](https://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html)
 
 
 ## Deep Learning
