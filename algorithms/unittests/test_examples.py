@@ -55,4 +55,3 @@ class MyTestCase(unittest.TestCase):
 if __name__ == '__main__':
     unittest.main()
     print(assertAlmostEqual(0.1, 1.1100000001))
-
